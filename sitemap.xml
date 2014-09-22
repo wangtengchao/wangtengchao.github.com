@@ -1,20 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://wangtengchao.github.com/blog/2014/09/23/Java-6-jvm-options/</loc>
+        <lastmod>2014-09-23T01:20:45+08:00</lastmod>
+    </url>
+    <url>
         <loc>http://wangtengchao.github.com/blog/about/</loc>
-        <lastmod>2013-12-14T17:54:49+08:00</lastmod>
+        <lastmod>2014-09-23T01:20:45+08:00</lastmod>
     </url>
     <url>
         <loc>http://wangtengchao.github.com/blog/archives/</loc>
-        <lastmod>2013-12-14T14:59:00+08:00</lastmod>
+        <lastmod>2014-09-23T01:20:45+08:00</lastmod>
     </url>
     <url>
         <loc>http://wangtengchao.github.com/blog/categories/</loc>
         <lastmod>2013-12-14T17:54:18+08:00</lastmod>
     </url>
     <url>
+        <loc>http://wangtengchao.github.com/blog/collections/</loc>
+        <lastmod>2014-09-23T01:20:45+08:00</lastmod>
+    </url>
+    <url>
         <loc>http://wangtengchao.github.com/</loc>
-        <lastmod>2013-12-14T17:04:19+08:00</lastmod>
+        <lastmod>2014-09-23T01:20:45+08:00</lastmod>
     </url>
     <url>
         <loc>http://wangtengchao.github.com/robots.txt</loc>
